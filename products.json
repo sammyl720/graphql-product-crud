@@ -1,0 +1,26 @@
+[
+    {
+        "id": "409cb958-92d0-48cb-b365-fb4034fe988b",
+        "name": "French Fries",
+        "price": 3.75,
+        "description": "Delicous French Fries"
+    },
+    {
+        "id": "2b8a2cf3-c684-46ec-ab54-3a17bbb1bce7",
+        "name": "Coke Cola",
+        "price": 1.5,
+        "description": "20 ounce bottle of Coke Cola"
+    },
+    {
+        "id": "512722c0-458d-4236-aa4f-313c2e1073a0",
+        "name": "Vegetable Calzone",
+        "price": 5.5,
+        "description": "Delicous freshly baked vegetable Calzone"
+    },
+    {
+        "id": "ea35ad49-ca52-4231-8baf-706d4549a18b",
+        "name": "Pizza Slice",
+        "price": 4.5,
+        "description": "Delicous Slice of Pizza"
+    }
+]
